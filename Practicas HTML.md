@@ -31,4 +31,11 @@ Puedes acceder al apartado de administrador mediante la ruta de navegacion en el
 
 o directamente **[aqui](https://byjaxx.github.io/Practica-HTML/Paste-Admin.html)**
 
-#Practica en clase
+# Practica en clase
+Sumado a la practica del "curso", el MC hizo una practica en clase, la cual debia cumplir con los siguientes requisitos:
++ Logo del restaurante
++ Menu del restaurante
++ Ubicaciones
++ Formulario para pedidos
+ 
+**[Puedes ver esa practica aqui](https://byjaxx.github.io/Practica-HTML/Practica3.html)**
